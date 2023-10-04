@@ -1,0 +1,24 @@
+Tue Oct 03 03:16:34 2023  TrayApp.main()
+Tue Oct 03 03:16:34 2023 going to enter main UI event loop...
+Tue Oct 03 03:16:34 2023 icon state='disconnected' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-disconnected.ico'
+Tue Oct 03 03:16:34 2023 icon state='connecting' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connecting.ico'
+Tue Oct 03 03:16:34 2023 icon state='connected' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connected.ico'
+Tue Oct 03 03:16:34 2023 icon state='GET_CONFIG' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-get-config.ico'
+Tue Oct 03 03:16:34 2023 icon state='TCP_CONNECT' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-tcp-connect.ico'
+Tue Oct 03 03:16:34 2023 icon state='RESOLVE' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-resolve.ico'
+Tue Oct 03 03:16:34 2023 icon state='RSA_SIGN' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-rsa-sign.ico'
+Tue Oct 03 03:16:34 2023 icon state='ADD_ROUTES' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-add-routes.ico'
+Tue Oct 03 03:16:34 2023 icon state='ASSIGN_IP' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-assign-ip.ico'
+Tue Oct 03 03:16:34 2023 icon state='RECONNECTING' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-reconnecting.ico'
+Tue Oct 03 03:16:34 2023 icon state='AUTH' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-auth.ico'
+Tue Oct 03 03:16:34 2023 icon state='WAIT' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-wait.ico'
+Tue Oct 03 03:16:34 2023 trying to load DLL: C:\Program Files (x86)\OpenVPN Technologies\OpenVPN Client\core\ovpntray.dll
+Tue Oct 03 03:16:34 2023 loaded resource DLL: 60686336
+Tue Oct 03 03:16:34 2023 run_client()
+Tue Oct 03 03:16:34 2023 TrackActiveProfiles sid='sess_TrackActiveProfiles_VnUkoXjRLdpd6nJa_1'
+Tue Oct 03 03:16:34 2023 checking if there are any updates...
+Tue Oct 03 03:16:34 2023 no update available
+Tue Oct 03 03:18:51 2023 Failed to add the taskbar icon: (-2147467259, 'Shell_NotifyIcon', 'Unspecified error'): win/ovpntray:168 (pywintypes.error)
+Tue Oct 03 03:19:01 2023 Failed to add the taskbar icon: (-2147467259, 'Shell_NotifyIcon', 'Unspecified error'): win/ovpntray:168 (pywintypes.error)
+Tue Oct 03 03:19:11 2023 Failed to add the taskbar icon: (-2147467259, 'Shell_NotifyIcon', 'Unspecified error'): win/ovpntray:168 (pywintypes.error)
+Tue Oct 03 03:19:21 2023 Failed to add the taskbar icon: (-2147467259, 'Shell_NotifyIcon', 'Unspecified error'): win/ovpntray:168 (pywintypes.error)
